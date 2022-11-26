@@ -1,2 +1,2 @@
-# Projects:  
-[Pgh Bus Display](leocosgrove.github.io/BusDisplay)
+## Projects:  
+[Pgh Bus Display](BusDisplay)
